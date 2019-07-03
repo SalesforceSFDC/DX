@@ -108,3 +108,6 @@
 * 	plugins:update
 * 	update
 * 	which
+##
+* sfdx force:alias:set MyDevSandbox=username@company.com.dev1
+* sfdx force:alias:set VukSandbox=vuk.djukic_external.k2@coinbase.com.vuk
