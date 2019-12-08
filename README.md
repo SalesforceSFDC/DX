@@ -117,3 +117,5 @@
 * sfdx force:alias:set MyDevSandbox=username@company.com.dev1
 * sfdx force:alias:set VukSandbox=vuk.djukic_external.k2@coinbase.com.vuk
 * sfdx force:config:set defaultusername=vuk.djukic_external.k2@coinbase.com
+* `sfdx force:user:password:reset` - generate a password for your scratch org user
+* `sfdx force:org:display` - to obtain the current scratch org's aauth token
