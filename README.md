@@ -5,7 +5,7 @@
 
 ## SFDX Commands
 * 	force:alias:list
-* 	force:alias:set
+* 	`force:alias:set ai=vuk+ai@anablock.com`
 * 	force:apex:class:create
 * 	force:apex:execute
 * 	force:apex:log:get
