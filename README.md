@@ -4,6 +4,11 @@
 * [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
 ## SFDX Commands
+
+### Sandbox login
+* sfdx force:auth:web:login -r https://test.salesforce.com
+
+
 * 	force:alias:list
 * 	`force:alias:set ai=vuk+ai@anablock.com`
 * 	force:apex:class:create
