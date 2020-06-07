@@ -7,7 +7,7 @@
 
 ### Sandbox login
 * sfdx force:auth:web:login -r https://test.salesforce.com
-
+#
 
 * 	force:alias:list
 * 	`force:alias:set ai=vuk+ai@anablock.com`
