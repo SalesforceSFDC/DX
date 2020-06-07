@@ -3,8 +3,10 @@
 * [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 * [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
-## SFDX Commands
+## Terminal
+* [Cheat sheet for terminal](http://halverscience.net/python_coding/cheat_sheet_for_terminal/cheat_sheet_for_terminal.html)
 
+## SFDX Commands
 ### Sandbox login
 * sfdx force:auth:web:login -r https://test.salesforce.com
 #
