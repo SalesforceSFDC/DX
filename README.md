@@ -126,3 +126,8 @@
 * sfdx force:config:set defaultusername=vuk.djukic_external.k2@coinbase.com
 * `sfdx force:user:password:reset` - generate a password for your scratch org user
 * `sfdx force:org:display` - to obtain the current scratch org's aauth token
+
+## Deployment of unmanaged package
+* sfdx force:mdapi:deploy -u vuk@attone.com.sit -d /Users/vukdukic/Projects/DevOps/attrtqa
+* sfdx force:mdapi:deploy -u perf -d /Users/vukdukic/Projects/rtqa_migration
+* sfdx force:mdapi:deploy:report -u vuk@attone.com.sit
