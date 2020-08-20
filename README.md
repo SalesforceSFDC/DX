@@ -13,9 +13,9 @@
 * sfdx force:auth:web:login -r https://test.salesforce.com
 ## Steps to set up VIDIV:
 * sfdx force:source:deploy -m ApexTrigger -u vdjukic@veritasinv.com.videv
-* sfdx force:project:create --manifest -n videv
+* sfdx force:project:create --manifest -n videv -a videv
 * sfdx force:source:retrieve
-
+#
 
 * 	force:alias:list
 * 	`force:alias:set ai=vuk+ai@anablock.com`
