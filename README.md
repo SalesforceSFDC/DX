@@ -11,7 +11,9 @@
 ## SFDX Commands
 ### Sandbox login
 * sfdx force:auth:web:login -r https://test.salesforce.com
-#
+## Steps to set up VIDIV:
+* sfdx force:source:deploy -m ApexTrigger -u vdjukic@veritasinv.com.videv
+
 
 * 	force:alias:list
 * 	`force:alias:set ai=vuk+ai@anablock.com`
