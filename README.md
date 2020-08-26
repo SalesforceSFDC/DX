@@ -15,6 +15,7 @@
 * sfdx force:source:deploy -m ApexTrigger -u vdjukic@veritasinv.com.videv
 * sfdx force:project:create --manifest -n videv -a videv
 * sfdx force:source:retrieve
+* sfdx force:apex:trigger:create -n taskTrigger
 #
 
 * 	force:alias:list
