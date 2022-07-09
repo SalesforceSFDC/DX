@@ -19,8 +19,9 @@
 #
 * sfdx version
 * sfdx update
-#
+## Working with Metadata Package
 * This creates our project named: PackageXMLProject: sfdx force:project:create -n PackageXMLProject 
+* command to retrieve the metadata identified in the package.xml file: sfdx force:source:retrieve -u DevHub -x ./package.xml
 #
 * 	force:alias:list
 * 	`force:alias:set ai=vuk+ai@anablock.com`
