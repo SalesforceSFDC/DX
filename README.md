@@ -20,7 +20,8 @@
 * sfdx version
 * sfdx update
 #
-
+* This creates our project named: PackageXMLProject: sfdx force:project:create -n PackageXMLProject 
+#
 * 	force:alias:list
 * 	`force:alias:set ai=vuk+ai@anablock.com`
 * 	force:apex:class:create
