@@ -17,6 +17,9 @@
 * sfdx force:source:retrieve
 * sfdx force:apex:trigger:create -n taskTrigger
 #
+* sfdx version
+* sfdx update
+#
 
 * 	force:alias:list
 * 	`force:alias:set ai=vuk+ai@anablock.com`
