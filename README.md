@@ -8,6 +8,8 @@
 * [mdapi Commands](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_mdapi.htm)
 ## Terminal
 * [Cheat sheet for terminal](http://halverscience.net/python_coding/cheat_sheet_for_terminal/cheat_sheet_for_terminal.html)
+* [Deploy Metadata Using the Manifest](https://trailhead.salesforce.com/content/learn/modules/package-xml/package-xml-deploy?trailmix_creator_id=manueljohnson&trailmix_slug=sfdx)
+
 
 ## SFDX Commands
 ### Sandbox login
