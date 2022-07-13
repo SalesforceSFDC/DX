@@ -9,6 +9,8 @@
 ## Terminal
 * [Cheat sheet for terminal](http://halverscience.net/python_coding/cheat_sheet_for_terminal/cheat_sheet_for_terminal.html)
 * [Deploy Metadata Using the Manifest](https://trailhead.salesforce.com/content/learn/modules/package-xml/package-xml-deploy?trailmix_creator_id=manueljohnson&trailmix_slug=sfdx)
+* [Object Reference - Data Model](https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/data_model.htm)
+* [Salesforce CLI source commands](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_source.htm?_ga=2.243070338.1676726463.1657319332-843055437.1657319332]
 
 
 ## SFDX Commands
